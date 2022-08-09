@@ -1,0 +1,1 @@
+Python app for bitcoin notifications using webhook service IFTTT
